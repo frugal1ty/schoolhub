@@ -64,5 +64,4 @@ public class PaddleModel implements Drawable {
 		// TODO Auto-generated method stub
 		return Color.GREEN;
 	}
-
 }
